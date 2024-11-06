@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <h1>informasjon</h1>
-    <h1>what the sigmas</h1>
-    <img src="car.jpg">
-    
-    <!-- Simple audio player -->
-    <audio controls>
-        <source src="Erm what the sigma.mp3.mp3" type="audio/mpeg">
-       
-    </audio>
-</html>
+
